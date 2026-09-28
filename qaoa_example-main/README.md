@@ -4,8 +4,6 @@ python -V
 
 Python 3.11.5
 
-Create a virtual environment (with the name "qaoa_venv" for example) with the following command:
-```[sh]
 python -m venv qaoa_venv
 
 source qaoa_venv/bin/activate
