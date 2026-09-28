@@ -11,6 +11,6 @@ python -m venv qaoa_venv
 source qaoa_venv/bin/activate
 
 (qaoa_venv) pip install -r requirements.txt
-```
+
 (qaoa_venv) python qaoa.py
-```
+
